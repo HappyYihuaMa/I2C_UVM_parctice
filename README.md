@@ -1,1 +1,1 @@
-# I2C_UVM_parctice
+# I2C_UVM_practice
